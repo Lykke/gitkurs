@@ -1,1 +1,2 @@
 # gitkurs
+jeg er awsome 
